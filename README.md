@@ -36,8 +36,11 @@ Real-time video meeting application built using Zoom Web SDK with secure authent
 
 ---
 
-### 🤖 Image Classification System
-Spring Boot + Machine Learning based application for uploading and classifying images using pre-trained models.
+### 🤖 SnapSense – Image Classification System (Live 🚀)
+
+A Spring Boot + Machine Learning powered image classification platform that allows users to upload images and get intelligent predictions using pre-trained models.
+
+🌐 **Live Demo:** https://snapsense.online/
 
 ---
 
