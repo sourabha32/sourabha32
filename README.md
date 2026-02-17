@@ -81,8 +81,8 @@ Spring Boot + Machine Learning based application for uploading and classifying i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your professional email)
+- 💼 LinkedIn:https://www.linkedin.com/in/sourabha-shekhargol
+- 📧 Email:sourabhsshekhargol@gmail.com
 
 ---
 
