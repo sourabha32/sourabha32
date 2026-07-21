@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sourabh
+# 👋 Hi there, I'm Sourabha
 
 🎓 Final Year Computer Science Student  
 💻 Java | Spring Boot | React | Machine Learning  
